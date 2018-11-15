@@ -13,7 +13,7 @@
     "features": "+strict-align",
     "linker": "rx-elf-gcc",
     "linker-flavor": "gcc",
-    "llvm-target": "rx600-renesas-elf",
+    "llvm-target": "thumbv6m-none-eabi",
     "max-atomic-width": 0,
     "os": "none",
     "panic-strategy": "abort",
